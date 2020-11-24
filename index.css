@@ -450,7 +450,7 @@
 }
 
 .avatar-1BDn8e[src*="209830981060788225"] + h2 > span.timestamp-3ZCmNB::before {
-    --epictext: 'Ajern Dev';
+    --epictext: 'Moderatus';
     --epic-bg: var(--background-modifier-accent);
     --epictxtcolor: white;
 }
