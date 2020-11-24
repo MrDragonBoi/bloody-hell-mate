@@ -1,4 +1,4 @@
-# Moderatus
+# Bloody Hell, mate! (this is british yes)
 
 ## Built With
 
@@ -22,7 +22,7 @@ CD powercord/src/Powercord/themes
 Then
 
 ```
-git clone https://github.com/MrDragonBoi/moderatus-theme
+git clone https://github.com/MrDragonBoi/bloody-hell-mate
 ```
 ### Images Of Theme
 
